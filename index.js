@@ -6,7 +6,7 @@ const cors = require("cors");
 
 mongoose
   .connect(
-    "mongodb+srv://youtubeclone:1234@cluster0.5ofd4si.mongodb.net/youtubeclone_19065081"
+    "mongodb+srv://iron57441:Iron57441@cluster0.ol19xht.mongodb.net/youtube_db"
   )
   .then(() => {
     console.log("DB connected");
